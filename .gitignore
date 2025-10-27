@@ -1,1 +1,28 @@
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio and VS Code
+.vs/
 .vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+~*
+
+# Publish output
+publish/
+dist/
+
+# Environment and secrets
+*.env
+secrets.json
